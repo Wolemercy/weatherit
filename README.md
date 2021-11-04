@@ -1,2 +1,2 @@
 # weatherit
-A app that serves your weather requests
+An app that serves your weather requests
